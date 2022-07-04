@@ -38,7 +38,7 @@ class Body extends StatelessWidget {
                       Spacer(),
                       IconCard(icon: "assets/icons/icon_3.svg"),
                       Spacer(),
-                      IconCard(icon: "assets/icons/icon_3.svg"),
+                      IconCard(icon: "assets/icons/icon_4.svg"),
                     ],
                   ),
                 ),
